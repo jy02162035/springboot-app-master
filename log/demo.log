@@ -1,0 +1,4 @@
+2019-06-16 20:45:19,054 INFO (StartupInfoLogger.java:57)- Started Application in 12.82 seconds (JVM running for 14.667)
+2019-06-16 21:05:14,055 INFO (StartupInfoLogger.java:48)- Starting Application on DESKTOP-LNRC0B5 with PID 17616 (D:\project-workspace\springboot-app-master\target\classes started by admin in D:\project-workspace\springboot-app-master)
+2019-06-16 21:05:14,070 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2019-06-16 21:05:26,647 INFO (StartupInfoLogger.java:57)- Started Application in 13.027 seconds (JVM running for 14.535)

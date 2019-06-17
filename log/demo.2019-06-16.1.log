@@ -1,0 +1,9 @@
+2019-06-16 19:33:16,549 INFO (StartupInfoLogger.java:57)- Started Application in 14.642 seconds (JVM running for 16.208)
+2019-06-16 20:11:52,375 INFO (StartupInfoLogger.java:48)- Starting Application on DESKTOP-LNRC0B5 with PID 18636 (D:\project-workspace\springboot-app-master\target\classes started by admin in D:\project-workspace\springboot-app-master)
+2019-06-16 20:11:52,390 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2019-06-16 20:12:05,023 INFO (StartupInfoLogger.java:57)- Started Application in 13.143 seconds (JVM running for 15.849)
+2019-06-16 20:15:32,878 INFO (StartupInfoLogger.java:48)- Starting Application on DESKTOP-LNRC0B5 with PID 3064 (D:\project-workspace\springboot-app-master\target\classes started by admin in D:\project-workspace\springboot-app-master)
+2019-06-16 20:15:32,889 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2019-06-16 20:15:46,422 INFO (StartupInfoLogger.java:57)- Started Application in 14.152 seconds (JVM running for 16.446)
+2019-06-16 20:45:06,644 INFO (StartupInfoLogger.java:48)- Starting Application on DESKTOP-LNRC0B5 with PID 15432 (D:\project-workspace\springboot-app-master\target\classes started by admin in D:\project-workspace\springboot-app-master)
+2019-06-16 20:45:06,653 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
